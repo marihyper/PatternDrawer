@@ -1,6 +1,6 @@
 # PatternDrawer
 
-Imagine you'd like to make a code draw a pattern for your:
+Imagine you'd like to make a code draw a pattern to save time:
 
 ![image](https://user-images.githubusercontent.com/81270107/169421359-41b759b4-78fa-49d0-80e8-2e4341013442.png)
 
