@@ -6,7 +6,7 @@ public class Pattern {
         Scanner scan = new Scanner(System.in);
         int control;
 
-        try {
+        try { 
             do {
                 System.out.println("---------- Menu ----------");
                 System.out.println("1: Draw new pattern");
@@ -28,7 +28,7 @@ public class Pattern {
 
                 if (control == 1) {
                     System.out.println("--------------------------");
-                    System.out.println("How many stars?");
+                    System.out.println("How many stars wide?");
                     System.out.println("Type a number from 1 to 40");
                     System.out.println("--------------------------");
                     int numberOfStars = scan.nextInt();
